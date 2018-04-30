@@ -1,1 +1,1 @@
-使用带有faceRecognizor的opencv,版本320，可以人体识别，可以编译成功，要是不能编译成功，就找到app\build\intermediates\cmake\debug\obj，删除多余的cpu构架版本
+版本320，可以人体识别，可以编译成功，要是不能编译成功，就找到app\build\intermediates\cmake\debug\obj，删除多余的cpu构架版本使用带有faceRecognizor的opencv
